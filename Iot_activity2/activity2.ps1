@@ -1,0 +1,11 @@
+start powershell "python client.py client1"
+start powershell "python client.py client2"
+start powershell "python client.py client3"
+start powershell "python client.py client4"
+start powershell "python client.py client5"
+start powershell "python client.py client6"
+start powershell "python client.py client7"
+start powershell "python client.py client8"
+start powershell "python client.py client9"
+start powershell "python client.py client10"
+
